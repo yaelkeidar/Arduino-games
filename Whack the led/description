@@ -14,3 +14,17 @@ Tools-
 
 Software-
 1. Arduino
+
+
+At the beginnig, the player is asked to chhose a difficulty level (1, 2, 3 or 4).
+1 is the easiest level and 4 is the most difficult.
+
+The more difficult the level is, the faster the leds are blinking.
+
+There are 4 leds and for buttons. One button for each led.
+
+If led i is blinking, the player needs to press button i.
+
+The player has 60 seconds to "whack" as many leds as possible (pressing the correct button for the blinking led).
+
+At the end of the game, the player is told how many points they got. 
