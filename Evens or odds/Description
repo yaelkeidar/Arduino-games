@@ -7,7 +7,7 @@ The "evens" player wants that the total number will be even and the "odds" playe
 
 In the project, the player playes against the computer that chooses randomly a number.
 
-The player in the project, doesnt realy chosses a number, but press either the "even" button ot the "odd" button.
+The player in the project, doesn't realy chosses a number, but press either the "even" button ot the "odd" button.
 
 Deciding who is the winner is according to the following table- 
 Computer |	Plaryer	| Who won
