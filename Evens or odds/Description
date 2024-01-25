@@ -1,0 +1,20 @@
+The implemente game is "Even or odds".
+One player is assigned "evens" and the other is assigned "odds".
+
+Each player chooses a number, between 1 to 5.
+
+The "evens" player wants that the total number will be even and the "odds" player wants the total number to be odd in order to win.
+
+In the project, the player playes against the computer that chooses randomly a number.
+
+The player in the project, doesnt realy chosses a number, but press either the "even" button ot the "odd" button.
+
+Deciding who is the winner is according to the following table- 
+Computer |	Plaryer	| Who won
+Evens	   |  Evens	  | Player
+Evens	   |  Odds	  | Computer
+Odds	   |  Evens	  | Computer
+Odds	   |  Odds	  | player
+
+In the game, there are 4 levels (how many rounds there are).
+The winner is the player who won the most time.
